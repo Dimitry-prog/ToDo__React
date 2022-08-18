@@ -1,6 +1,7 @@
 {
   "name": "new-app",
   "version": "0.1.0",
+  "homepage": "https://dimitry-prog.github.io/ToDo__React/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
