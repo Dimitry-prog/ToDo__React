@@ -1,0 +1,13 @@
+.alert {
+  text-align: center;
+}
+
+.alert__success {
+  background-color: var(--color-green);
+  padding: 10px 0;
+}
+
+.alert__danger {
+  background-color: var(--color-red);
+  padding: 10px 0;
+}
